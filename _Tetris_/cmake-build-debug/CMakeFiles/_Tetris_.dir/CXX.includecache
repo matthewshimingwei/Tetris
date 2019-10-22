@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mingshi/CLionProjects/_Tetris_/data_type.h
+type_def.h
+/Users/mingshi/CLionProjects/_Tetris_/type_def.h
+
+/Users/mingshi/CLionProjects/_Tetris_/evaluate.cpp
+evaluate.h
+/Users/mingshi/CLionProjects/_Tetris_/evaluate.h
+
+/Users/mingshi/CLionProjects/_Tetris_/evaluate.h
+type_def.h
+/Users/mingshi/CLionProjects/_Tetris_/type_def.h
+
+/Users/mingshi/CLionProjects/_Tetris_/main.cpp
+iostream
+-
+vector
+-
+ctime
+-
+type_def.h
+/Users/mingshi/CLionProjects/_Tetris_/type_def.h
+evaluate.h
+/Users/mingshi/CLionProjects/_Tetris_/evaluate.h
+data_type.h
+/Users/mingshi/CLionProjects/_Tetris_/data_type.h
+
+/Users/mingshi/CLionProjects/_Tetris_/type_def.h
+

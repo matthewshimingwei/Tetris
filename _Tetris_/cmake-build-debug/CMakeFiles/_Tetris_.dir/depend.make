@@ -12,8 +12,11 @@ CMakeFiles/_Tetris_.dir/evaluate.cpp.o: ../type_def.h
 CMakeFiles/_Tetris_.dir/main.cpp.o: ../data_type.h
 CMakeFiles/_Tetris_.dir/main.cpp.o: ../evaluate.h
 CMakeFiles/_Tetris_.dir/main.cpp.o: ../main.cpp
+CMakeFiles/_Tetris_.dir/main.cpp.o: ../test_evaluate.h
 CMakeFiles/_Tetris_.dir/main.cpp.o: ../type_def.h
 
+CMakeFiles/_Tetris_.dir/test_evaluate.cpp.o: ../evaluate.h
 CMakeFiles/_Tetris_.dir/test_evaluate.cpp.o: ../test_evaluate.cpp
 CMakeFiles/_Tetris_.dir/test_evaluate.cpp.o: ../test_evaluate.h
+CMakeFiles/_Tetris_.dir/test_evaluate.cpp.o: ../type_def.h
 

@@ -13,6 +13,7 @@ typedef enum tagShapeType
     S_J,
     S_I,
     S_O,
+    S_T,
     S_B //special type of border
 
 }SHAPE_TYPE;
@@ -32,6 +33,7 @@ typedef struct tagRussiaGame
 {
     int board[BOARD_ROW][BOARD_COLUMN];
     int top_row; // for top row is to elimiate some enumeration
+    int old_top_row;
     int score;
     int lines;
 }RUSSIA_GAME;
@@ -57,6 +59,6 @@ typedef  struct  tageEvaluateResult
     int r_index;
     int row,col;
     int value;
-    int pre;
+    int prs;
 }EVA_RESULT;
 #endif //_TETRIS__TYPE_DEF_H
